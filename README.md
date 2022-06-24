@@ -18,3 +18,6 @@
 - Hook useEffect
 - Add Listener to RNShake
 - Lifecicly ReactJS
+
+
+OBS: conteúdos acima vistos no Desafio de Projeto: Construindo um App usando Sensor de Movimento com React Native
